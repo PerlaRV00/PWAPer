@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: rgb(228, 139, 168);
+}
+
+.contenido {
+  display: inline-block;
+  text-align: start;
+  color: rgb(120, 6, 155);
+}
+
+meter,
+input[type=range],
+output {
+  display: block;
+}
+
+mi-footer {
+  display: block;
+  margin: 1rem 0;
+  font-size: small;
+}
